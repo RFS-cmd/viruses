@@ -3,9 +3,9 @@ https://github.com/Testingsomescripts101/Malwee/blob/main/Malwee.exe
 https://github.com/vvinlind/MEMZ/blob/master/MEMZ.exe
 https://github.com/chronosmiki/RANSOMWARE-WANNACRY-2.0/blob/master/Ransomware.WannaCry.zip (PWD  : infected)
 https://github.com/Testingsomescripts101/Malwee/blob/main/Malwe.exe
-https://github.com/InQuest/malware-samples/blob/master/2020-05-ZLoader-Evolution/44457b45620327b7bddd7e441a8a369de22dd568457193de0e3317bdda09b4fd
-https://github.com/InQuest/malware-samples/blob/master/2020-05-ZLoader-Evolution/89a2f612e3b86974e862334844991e0fc60ff1c2aca26498722670713bb2553a
-https://github.com/InQuest/malware-samples/blob/master/miscellaneous/acc5fe0088037ddc055f9286380c56583effa1186afe9d08caea3e197b2643fd
+https://github.com/MalwareStudio/Summoner.exe-beta-trojan/blob/master/Summoner.exe
+https://github.com/RobertoLeonFR-ES/Trojan.POwershell.Rozena.exe/blob/main/Trojan.POwershell.Rozena.exe
+https://github.com/pankoza-pl/Saitama.exe/blob/main/Saitama.exe
 https://github.com/InQuest/malware-samples/blob/master/2020-05-ZLoader-Evolution/d1506e2684cba9fc75b909d2b6acbcd9ba8c7ce613fd464e147bd6d2e217ae78
 https://github.com/InQuest/malware-samples/blob/master/2020-05-ZLoader-Evolution/fd493baba5aaf55b0d9a6f317b66983b20559a673358f472991c528823257b40
 https://github.com/InQuest/malware-samples/blob/master/2020-05-ZLoader-Evolution/06ac09e487c9892aa0389ab18eaf49b3156ccb385c73eea17ebee49ffc6cc2c9
